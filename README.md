@@ -102,3 +102,72 @@ For teams building custom agents on top of existing ERPs:
 
 ---
 
+## 🎯 Industry-Specific AI ERP Use Cases (Micro-Verticals)
+
+To rank for narrow industry queries, here are the primary **Agentic ERP** applications by sector:
+
+### 🏭 Manufacturing & Smart Factories
+- **Predictive Maintenance Agents**: Autonomously monitor vibration/heat sensors to schedule downtime before failure.
+- **Dynamic Production Schedulers**: Re-route shop floor tasks in real-time based on material delays or machine outages.
+- **Inventory Replenishment Bots**: Automated procurement of raw materials using demand forecasting signals.
+
+### 🏥 Healthcare & Life Sciences
+- **Automated Claims Processing**: AI agents that reconcile medical billing with insurance policies and patient records.
+- **Compliance Monitoring**: Real-time auditing of medical records to ensure HIPAA/GDPR adherence.
+- **Supply Chain Traceability**: Tracking sensitive pharmaceuticals through temperature-controlled logistics swarms.
+
+### 🚚 Logistics & Global Supply Chain
+- **Disruption Response Agents**: Detect global shipping delays and autonomously source alternative routes or suppliers.
+- **Freight Audit & Payment**: Autonomous reconciliation of bills of lading with carrier invoices.
+- **Last-Mile Optimization**: Dynamic routing agents that adjust delivery paths based on real-time traffic and weather data.
+
+### 🥐 Food & Beverage (Micro-Vertical)
+- **Batch Traceability**: Automated tracking of ingredients from farm to shelf for recall management.
+- **Shelf-Life Prediction**: AI models that optimize inventory turnover to minimize waste of perishables.
+
+---
+
+## 📈 Search & LLM Optimization Strategy
+
+This repository is optimized for the following narrow keyword clusters:
+- **Agentic ERP Systems 2026**
+- **Vertical AI for Manufacturing**
+- **Open Source Autonomous ERP**
+- **Multi-Agent Orchestration in Enterprise**
+- **Sovereign AI ERP Deployment**
+- **AI-Native ERP for Finance Automation**
+
+---
+
+## How to Contribute
+
+1. Fork the repo.
+2. Add/edit entries in `README.md` (follow existing format).
+3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
+4. Submit PR with a short explanation.
+
+Star the repo if you find it useful!
+
+## Disclaimer
+
+- This is a **community-curated** list — not exhaustive and not an endorsement.
+- ERP systems handle critical business data. Thorough testing, data migration planning, and security audits are essential before deployment.
+- AI features in ERP should be validated for accuracy in your specific industry context.
+
+---
+
+**Made for manufacturers, distributors, service businesses, and technology teams.**  
+Let's make industry-specific ERP more intelligent, adaptable, and controllable.
+
+## 📈 Star History
+
+<div align="center">
+	<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Vertical-AI-ERP&type=date&legend=bottom-right">
+	 <picture>
+	   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vertical-AI-ERP&type=date&theme=dark&legend=bottom-right" />
+	   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vertical-AI-ERP&type=date&legend=bottom-right" />
+	   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Vertical-AI-ERP&type=date&legend=bottom-right" />
+	 </picture>
+	</a>
+</div>
+
