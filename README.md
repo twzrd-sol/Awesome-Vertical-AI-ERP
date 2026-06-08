@@ -171,3 +171,6 @@ Let's make industry-specific ERP more intelligent, adaptable, and controllable.
 	</a>
 </div>
 
+## 🔐 Agent Identity & Trust
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — Trust scoring and wallet identity verification for ERP AI agents. Verify agent identity before allowing access to sensitive business data or authorizing autonomous procurement micropayments. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
